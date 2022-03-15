@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473312290597",
+    "project_id": "uppic-c8ba4",
+    "storage_bucket": "uppic-c8ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473312290597:android:31242dce90a03292375ccc",
+        "android_client_info": {
+          "package_name": "com.example.uppic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473312290597-2lof8hk7abj8j4rnglqic2mjlhejtk7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd51aTv1HuoVUpL9iWwsZiUkKEQu1K16k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473312290597-2lof8hk7abj8j4rnglqic2mjlhejtk7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
